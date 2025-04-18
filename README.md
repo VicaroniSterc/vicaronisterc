@@ -1,10 +1,19 @@
-<h2 align="left">🧐 Olá, Galera, eu sou o Erick Vicaroni, um desenvolvedor apaixonado por transformar ideias em código e soluções inovadoras. Sempre em busca de novos desafios e aprendizados no mundo da tecnologia!</h2>
+<h2 align="left">🧐👋🏻 Prazer! Sou Erick Vicaroni Sterc, um entusiasta de tecnologia, negócios e dados, que acredita em conteúdo direto, prático e sem aquele papo de "coach milagroso".
+
+🎓 Sou formado em Ciência da Computação pela FIAP e atuo como Desenvolvedor e Analista de Dados. Minha missão é unir conhecimento técnico com visão estratégica para criar soluções escaláveis que geram resultado de verdade.
+
+🌍 Ao longo da minha trajetória, atuei em ambientes desafiadores no Brasil e no exterior, tanto na área técnica quanto comercial. Tenho experiência sólida com desenvolvimento front-end e back-end, análise de dados, automação de testes e integração de sistemas complexos.
+
+💼 Minha experiência inclui desenvolvimento com HTML, CSS, Java, Node.js, além de forte atuação em integração de sistemas, automação de processos e análise de dados com uso de IA. Também tenho histórico sólido em ambientes corporativos como analista e agente de negócios, unindo visão técnica e estratégica.
+🧠 Sou movido por aprendizado contínuo: estou cursando pós-graduação e estudo diariamente pela Alura para manter minhas habilidades afiadas e atualizadas.
+
+🔗 Me acompanhe nas redes e confira meus projetos:
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VicaroniSterc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VicaroniSterc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -51,8 +60,8 @@
 Instagram  
 [https://www.instagram.com/vicaronisterc/](https://www.instagram.com/vicaronisterc/)
 
-Linkedin  
+LinkedIn  
 [https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)
 
-Github  
+GitHub  
 [https://github.com/VicaroniSterc](https://github.com/VicaroniSterc)
