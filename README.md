@@ -46,8 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
 
 Instagram  
@@ -57,4 +55,4 @@ Linkedin
 [https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)
 
 Github  
-[github.com/VicaroniSterc](https://github.com/VicaroniSterc)
+[https://github.com/VicaroniSterc](https://github.com/VicaroniSterc)
