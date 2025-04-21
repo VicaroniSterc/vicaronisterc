@@ -2,12 +2,13 @@
 --- 
   
 # 🚀 Sobre Mim  
-Olá!!! 👋 Sou **Erick Vicaroni**, um desenvolvedor apaixonado por construir aplicações robustas, escaláveis e de alta performance.
+👋🏻 Sou Erick Vicaroni Sterc, formado em Ciência da Computação pela FIAP, com atuação como Desenvolvedor e Analista de Dados. Unindo visão técnica e estratégica, crio soluções escaláveis que geram resultado real.
 
-- 🌐 **Co-fundador & CEO** na [PlanBTech](https://planbtech.com.br) – Focado em fornecer soluções tecnológicas de ponta.  
-- 💻 **Especializado em:** Desenvolvimento Backend, arquiteturas modernas e computação em nuvem.  
-- 🔥 Apaixonado por **melhores práticas de engenharia de software**, otimização de desempenho e código limpo.  
-- 🤝 Sempre aberto a **colaborações**, novos desafios e compartilhar conhecimento com a comunidade de desenvolvedores.  
+💼 Tenho experiência em desenvolvimento front-end e back-end, automação de testes, integração de sistemas e análise de dados com IA, atuando tanto no Brasil quanto no exterior em contextos técnicos e comerciais.
+
+🚀 Tecnologias: HTML, CSS, Java, Node.js, entre outras.
+📚 Estudo diariamente na Alura e estou em pós-graduação, sempre em busca de evolução contínua.
+
 
 ---
 
