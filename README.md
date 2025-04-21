@@ -1,67 +1,76 @@
-<h2 align="left">🧐👋🏻 Prazer! Sou Erick Vicaroni Sterc, um entusiasta de tecnologia, negócios e dados, que acredita em conteúdo direto, prático e sem aquele papo de "coach milagroso".
+<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
+--- 
+  
+# 🚀 About Me  
+Hello!!! 👋 I'm Erick Vicaroni, a developer with a passion for building robust, scalable and high-performance applications.
 
-🎓 Sou formado em Ciência da Computação pela FIAP e atuo como Desenvolvedor e Analista de Dados. Minha missão é unir conhecimento técnico com visão estratégica para criar soluções escaláveis que geram resultado de verdade.
+- 🌐 **Co-founder & CEO** at [PlanBTech](https://planbtech.com.br) – Focused on delivering **cutting-edge** technology solutions.  
+- 💻 **Expertise in:** Backend development, modern architectures, and cloud computing.  
+- 🔥 Passionate about **software engineering best practices**, performance optimization, and clean code.  
+- 🤝 Always open to **collaborations**, new challenges, and sharing knowledge with the dev community.  
 
-🌍 Ao longo da minha trajetória, atuei em ambientes desafiadores no Brasil e no exterior, tanto na área técnica quanto comercial. Tenho experiência sólida com desenvolvimento front-end e back-end, análise de dados, automação de testes e integração de sistemas complexos.
+---
 
-💼 Minha experiência inclui desenvolvimento com HTML, CSS, Java, Node.js, além de forte atuação em integração de sistemas, automação de processos e análise de dados com uso de IA. Também tenho histórico sólido em ambientes corporativos como analista e agente de negócios, unindo visão técnica e estratégica.
-🧠 Sou movido por aprendizado contínuo: estou cursando pós-graduação e estudo diariamente pela Alura para manter minhas habilidades afiadas e atualizadas.
+## 🛠️ Tech Stack & Tools  
 
-🔗 Me acompanhe nas redes e confira meus projetos:
+### 🚀 Programming Languages  
+Proficient in multiple languages, ensuring flexibility across various projects and architectures.  
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
 
-###
+### 🚀 Frameworks & Development Tools  
+Hands-on experience with modern frameworks and essential tools to accelerate development and deployment.  
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicaroniSterc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VicaroniSterc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🚀 Cloud & Databases  
+Deep knowledge of cloud infrastructure and database management for scalable applications.  
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</p>
 
-###
+### 🚀 Operating Systems & Embedded Systems  
+Passionate about Linux-based environments and embedded system development.  
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</br>
+</br>
+</br>
 
-###
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaogabrielvianna&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 📫 Contact Me  
+Interested in collaborating or just want to connect? Feel free to reach out!  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/vicaronisterc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+📩 **Email:** [joaogabrielvianna05@gmail.com](mailto:erickvicaroni@gmail.com)  
+💼 **LinkedIn:** [joaogabrielvianna](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)  
+📌 **Instagram:** [https://instragram/vicaronisterc.com.br](https://instragram/vicaronisterc.com.br)
 
-###
+---
 
-<br clear="both">
-
-###
-
-Instagram  
-[https://www.instagram.com/vicaronisterc/](https://www.instagram.com/vicaronisterc/)
-
-LinkedIn  
-[https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)
-
-GitHub  
-[https://github.com/VicaroniSterc](https://github.com/VicaroniSterc)
+🔥 *Let’s build something great together!* 🚀  
