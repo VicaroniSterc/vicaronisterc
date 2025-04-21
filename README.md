@@ -1,20 +1,20 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 --- 
   
-# 🚀 About Me  
-Hello!!! 👋 I'm Erick Vicaroni, a developer with a passion for building robust, scalable and high-performance applications.
+# 🚀 Sobre Mim  
+Olá!!! 👋 Sou **Erick Vicaroni**, um desenvolvedor apaixonado por construir aplicações robustas, escaláveis e de alta performance.
 
-- 🌐 **Co-founder & CEO** at [PlanBTech](https://planbtech.com.br) – Focused on delivering **cutting-edge** technology solutions.  
-- 💻 **Expertise in:** Backend development, modern architectures, and cloud computing.  
-- 🔥 Passionate about **software engineering best practices**, performance optimization, and clean code.  
-- 🤝 Always open to **collaborations**, new challenges, and sharing knowledge with the dev community.  
+- 🌐 **Co-fundador & CEO** na [PlanBTech](https://planbtech.com.br) – Focado em fornecer soluções tecnológicas de ponta.  
+- 💻 **Especializado em:** Desenvolvimento Backend, arquiteturas modernas e computação em nuvem.  
+- 🔥 Apaixonado por **melhores práticas de engenharia de software**, otimização de desempenho e código limpo.  
+- 🤝 Sempre aberto a **colaborações**, novos desafios e compartilhar conhecimento com a comunidade de desenvolvedores.  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tecnologias & Ferramentas  
 
-### 🚀 Programming Languages  
-Proficient in multiple languages, ensuring flexibility across various projects and architectures.  
+### 🚀 Linguagens de Programação  
+Proficiente em várias linguagens, garantindo flexibilidade em diversos projetos e arquiteturas.  
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
@@ -24,8 +24,8 @@ Proficient in multiple languages, ensuring flexibility across various projects a
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
 
-### 🚀 Frameworks & Development Tools  
-Hands-on experience with modern frameworks and essential tools to accelerate development and deployment.  
+### 🚀 Frameworks & Ferramentas de Desenvolvimento  
+Experiência prática com frameworks modernos e ferramentas essenciais para acelerar o desenvolvimento e a implantação.  
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
@@ -37,16 +37,16 @@ Hands-on experience with modern frameworks and essential tools to accelerate dev
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" />
 </p>
 
-### 🚀 Cloud & Databases  
-Deep knowledge of cloud infrastructure and database management for scalable applications.  
+### 🚀 Nuvem & Bancos de Dados  
+Conhecimento profundo em infraestrutura de nuvem e gerenciamento de bancos de dados para aplicações escaláveis.  
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
 
-### 🚀 Operating Systems & Embedded Systems  
-Passionate about Linux-based environments and embedded system development.  
+### 🚀 Sistemas Operacionais & Sistemas Embarcados  
+Apaixonado por ambientes baseados em Linux e desenvolvimento de sistemas embarcados.  
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" />
@@ -57,20 +57,21 @@ Passionate about Linux-based environments and embedded system development.
 </br>
 </br>
 
-# 📊 GitHub Stats  
+# 📊 Estatísticas do GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaogabrielvianna&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vicaronisterc&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 📫 Contact Me  
-Interested in collaborating or just want to connect? Feel free to reach out!  
+## 📫 Contato  
+Interessado em colaborar ou apenas quer se conectar? Sinta-se à vontade para entrar em contato!  
 
-📩 **Email:** [joaogabrielvianna05@gmail.com](mailto:erickvicaroni@gmail.com)  
-💼 **LinkedIn:** [joaogabrielvianna](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)  
-📌 **Instagram:** [https://instragram/vicaronisterc.com.br](https://instragram/vicaronisterc.com.br)
+📩 **Email:** [erickvicaroni@gmail.com](mailto:erickvicaroni@gmail.com)  
+💼 **LinkedIn:** [Erick Vicaroni](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)  
+📌 **Instagram:** [@vicaronisterc](https://www.instagram.com/vicaronisterc/)  
+🐙 **GitHub:** [vicaronisterc](https://github.com/vicaronisterc)
 
 ---
 
-🔥 *Let’s build something great together!* 🚀  
+🔥 *Vamos construir algo incrível juntos!* 🚀  
