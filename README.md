@@ -71,6 +71,7 @@
 
 ## 📫 Contato  
  Interessado em colaborar ou apenas quer se conectar? Fique à vontade para entrar em contato! Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
+
 📩 **Email:** [erickvicaroni@gmail.com](mailto:erickvicaroni@gmail.com)  
 💼 **LinkedIn:** [Erick Vicaroni](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)  
 📌 **Instagram:** [@vicaronisterc](https://www.instagram.com/vicaronisterc/)  
