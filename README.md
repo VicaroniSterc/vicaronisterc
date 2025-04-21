@@ -15,8 +15,9 @@
 ## 🛠️ Tecnologias & Ferramentas  
 
 ### 🚀 Linguagens de Programação  
-Proficiente em várias linguagens, garantindo flexibilidade em diversos projetos e arquiteturas.  
-<p>
+💻 Proficiente em diversas linguagens de programação, o que me permite atuar com flexibilidade em diferentes projetos e arquiteturas, sempre entregando soluções eficientes e escaláveis.
+
+🚀 Tecnologias dominadas: HTML, CSS, Java, Node.js, entre outras que compõem meu stack técnico e reforçam minha capacidade de adaptação em times multidisciplinares e demandas variadas.<p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -26,8 +27,9 @@ Proficiente em várias linguagens, garantindo flexibilidade em diversos projetos
 </p>
 
 ### 🚀 Frameworks & Ferramentas de Desenvolvimento  
-Experiência prática com frameworks modernos e ferramentas essenciais para acelerar o desenvolvimento e a implantação.  
-<p>
+🛠️ Experiência prática com frameworks modernos e ferramentas essenciais, otimizando o desenvolvimento e acelerando a entrega de aplicações robustas e de alta performance.
+
+🚀 Stack de trabalho: React, Spring Boot, Node.js, Docker, Git, entre outras tecnologias que impulsionam a produtividade e garantem qualidade no ciclo de desenvolvimento.<p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring" />
@@ -39,16 +41,18 @@ Experiência prática com frameworks modernos e ferramentas essenciais para acel
 </p>
 
 ### 🚀 Nuvem & Bancos de Dados  
-Conhecimento profundo em infraestrutura de nuvem e gerenciamento de bancos de dados para aplicações escaláveis.  
-<p>
+☁️ Conhecimento profundo em infraestrutura de nuvem e gerenciamento de bancos de dados, garantindo a escalabilidade, segurança e performance de aplicações em ambientes modernos.
+
+🚀 Ferramentas e tecnologias: Azure, AWS, Google BigQuery, Oracle DB, PostgreSQL e MySQL, aplicadas em soluções que exigem alta disponibilidade e eficiência operacional.<p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
 
 ### 🚀 Sistemas Operacionais & Sistemas Embarcados  
-Apaixonado por ambientes baseados em Linux e desenvolvimento de sistemas embarcados.  
-<p>
+🐧 Apaixonado por ambientes baseados em Linux e desenvolvimento de sistemas embarcados, com foco em desempenho, controle e customização de soluções tecnológicas.
+
+🚀 Tecnologias utilizadas: Linux, Arch Linux, Arduino e ferramentas de automação que possibilitam inovação em dispositivos e sistemas inteligentes.<p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
@@ -66,8 +70,7 @@ Apaixonado por ambientes baseados em Linux e desenvolvimento de sistemas embarca
 ---
 
 ## 📫 Contato  
-Interessado em colaborar ou apenas quer se conectar? Sinta-se à vontade para entrar em contato!  
-
+ Interessado em colaborar ou apenas quer se conectar? Fique à vontade para entrar em contato! Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
 📩 **Email:** [erickvicaroni@gmail.com](mailto:erickvicaroni@gmail.com)  
 💼 **LinkedIn:** [Erick Vicaroni](https://www.linkedin.com/in/erick-vicaroni-sterc-7630a51a1/)  
 📌 **Instagram:** [@vicaronisterc](https://www.instagram.com/vicaronisterc/)  
