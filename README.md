@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 --- 
   
-# 🚀 Sobre Mim  
-👋🏻 Sou Erick Vicaroni Sterc, formado em Ciência da Computação pela FIAP, com atuação como Desenvolvedor e Analista de Dados. Unindo visão técnica e estratégica, crio soluções escaláveis que geram resultado real.
+👋🏻 Sou Erick Vicaroni Sterc, formado em Ciência da Computação pela FIAP, com perfil multidisciplinar atuando como Desenvolvedor Front-end, Back-end e Analista de Dados. Minha missão é transformar desafios em soluções digitais escaláveis, inteligentes e de alto impacto.
 
-💼 Tenho experiência em desenvolvimento front-end e back-end, automação de testes, integração de sistemas e análise de dados com IA, atuando tanto no Brasil quanto no exterior em contextos técnicos e comerciais.
+💼 Experiência sólida em desenvolvimento de software, automação de testes, integração de sistemas, análise de dados e inteligência artificial. Atuo em projetos nacionais e internacionais, unindo visão técnica, foco em negócios e excelência na entrega.
 
-🚀 Tecnologias: HTML, CSS, Java, Node.js, entre outras.
-📚 Estudo diariamente na Alura e estou em pós-graduação, sempre em busca de evolução contínua.
+🚀 Stack: React, HTML, CSS, JavaScript (básico), Java (básico), Node.js, Python, SQL, Databricks, Azure, Power BI, Kafka, RabbitMQ, AWS e Integração de APIs.
+🧠 Soft Skills: Resolução de problemas, pensamento analítico, comunicação, visão estratégica e foco no cliente.
+📚 Lifelong learning: Estudo diariamente na Alura, curso pós-graduação e estou em constante aprimoramento nas áreas de Desenvolvimento, Dados, Cloud e IA.
 
 
 ---
