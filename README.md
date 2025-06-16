@@ -9,12 +9,12 @@
 
 ### 🚀 About Me
 
-- 🎓 **Graduated in Computer Science - FIAP**
-- 👨🏻‍💻 Currently working with **Front-end, Back-end, Data Analytics and System Integration**
-- 🌍 Working on projects in **Brazil 🇧🇷 and Italy 🇮🇹**
-- 📚 Constant learning with **Alura | Post-Graduation | Self-taught Development**
-- 🔭 Exploring **Cloud Computing, Automation, AI and Scalable Systems**
-- 💡 Passionate about **creating solutions that connect technology and business**
+- 🎓 **Graduated in Computer Science - FIAP**  
+- 💻 Specialized in **Introduction to Computer Science – CS50 (Harvard University)**  
+- 🌍 Fluent in **Spanish** and communicative in **English**  
+- 👨🏻‍💻 Experience with **Front-end, Back-end, Data Analytics and System Integration**
+- 🔁 Active in both **technical and commercial projects** in Brazil 🇧🇷 and Italy 🇮🇹  
+- 📚 Constant learning at **Alura** and through **postgraduate studies**, with a focus on modern tech and innovation
 
 ---
 
