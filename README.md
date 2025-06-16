@@ -55,18 +55,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=erickvicaroni&show_icons=true&theme=radical&count_private=true&hide=stars" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=erickvicaroni&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erickvicaroni&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
----
 
 ### 🤝 Connect with Me
 
