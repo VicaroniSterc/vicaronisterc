@@ -10,11 +10,12 @@
 ### 🚀 About Me
 
 - 🎓 **Graduated in Computer Science - FIAP**  
+- 🏫 **MBA in Software Engineering – University of São Paulo (USP)**  
 - 💻 Specialized in **Introduction to Computer Science – CS50 (Harvard University)**  
 - 🌍 Fluent in **Spanish** and communicative in **English**  
 - 👨🏻‍💻 Experience with **Front-end, Back-end, Data Analytics and System Integration**
 - 🔁 Active in both **technical and commercial projects** in Brazil 🇧🇷 and Italy 🇮🇹  
-- 📚 Constant learning at **Alura** and through **postgraduate studies**, with a focus on modern tech and innovation
+- 📚 Lifelong learner with daily studies on **Alura** and continuous professional development
 
 ---
 
