@@ -67,8 +67,9 @@
 ### 📊 GitHub Commit Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicaroniSterc&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="800" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=VicaroniSterc&theme=radical&hide_border=true&area=true" alt="GitHub Contribution Graph" width="800" />
 </p>
+
 
 ---
 
