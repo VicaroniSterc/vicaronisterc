@@ -62,16 +62,12 @@
   <img width="48%" src="https://streak-stats.demolab.com?user=VicaroniSterc&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicaroniSterc&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 ### 📊 GitHub Commit Calendar
 
 <p align="center">
-  <img src="https://github.com/VicaroniSterc.png?tab=activity" alt="GitHub Commit Calendar" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicaroniSterc&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="800" />
 </p>
 
 ---
@@ -85,7 +81,7 @@
   <a href="https://github.com/erickvicaroni" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/seu_instagram/" target="_blank">
+  <a href="https://www.instagram.com/vicaronisterc/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -93,4 +89,3 @@
 ---
 
 <p align="center">✨ "Transformando ideias em soluções digitais de alto impacto!" ✨</p>
-****
