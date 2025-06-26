@@ -67,7 +67,7 @@
 ### 📊 GitHub Commit Calendar
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=VicaroniSterc&theme=radical&hide_border=true&area=true" alt="GitHub Contribution Graph" width="800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VicaroniSterc&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="800" />
 </p>
 
 ---
