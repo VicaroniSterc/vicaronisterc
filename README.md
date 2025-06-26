@@ -13,7 +13,7 @@
 - 🏫 **MBA in Software Engineering – University of São Paulo (USP)**  
 - 💻 Specialized in **Introduction to Computer Science – CS50 (Harvard University)**  
 - 🌍 Fluent in **Spanish** and communicative in **English**  
-- 👨🏻‍💻 Experience with **Front-end, Back-end, Data Analytics and System Integration**
+- 👨🏻‍💻 Experience with **Front-end, Back-end, Data Analytics and System Integration**  
 - 🔁 Active in both **technical and commercial projects** in Brazil 🇧🇷 and Italy 🇮🇹  
 - 📚 Lifelong learner with daily studies on **Alura** and continuous professional development
 
@@ -48,10 +48,12 @@
 
 ### 🌱 Currently Learning
 
-- **TypeScript, NestJS, Next.js**
-- **Advanced Cloud (Azure, AWS)**
-- **AI & Data Engineering**
+- **TypeScript, NestJS, Next.js**  
+- **Advanced Cloud (Azure, AWS)**  
+- **AI & Data Engineering**  
 - **System Integrations and Automation**
+
+---
 
 ### 📈 GitHub Stats
 
@@ -64,7 +66,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicaroniSterc&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
+---
 
+### 📊 GitHub Commit Calendar
+
+<p align="center">
+  <img src="https://github.com/VicaroniSterc.png?tab=activity" alt="GitHub Commit Calendar" width="800" />
+</p>
+
+---
 
 ### 🤝 Connect with Me
 
@@ -83,3 +93,4 @@
 ---
 
 <p align="center">✨ "Transformando ideias em soluções digitais de alto impacto!" ✨</p>
+****
