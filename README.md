@@ -70,7 +70,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=VicaroniSterc&theme=radical&hide_border=true&area=true" alt="GitHub Contribution Graph" width="800" />
 </p>
 
-
 ---
 
 ### 🤝 Connect with Me
